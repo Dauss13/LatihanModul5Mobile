@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449276673179",
+    "project_id": "mikan-231b6",
+    "storage_bucket": "mikan-231b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449276673179:android:c8fd622b4a76ab0ffe1a3e",
+        "android_client_info": {
+          "package_name": "com.example.mikan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvD_V0RqlB2joPvrWj6e7NcnGAMvuFen4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
